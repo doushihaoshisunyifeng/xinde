@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>斗破苍穹</h1>
+<p>天才骄，废物恼，休书一纸少年傲！</p>
 
-You can use the [editor on GitHub](https://github.com/doushihaoshisunyifeng/xinde/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<p>云岚三年苦谁知晓！</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p>遇药老，重尺扫，心炎锻体情迷渺！</p>
 
-### Markdown
+<p>殊不知伊人日渐憔！</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p>厄难苦毒绯红脸颊浅浅笑！</p>
 
-```markdown
-Syntax highlighted code block
+<p>通天彩磷蛇媚孕灵妖！</p>
 
-# Header 1
-## Header 2
-### Header 3
+<p>过往前时分离处，力量尚小！</p>
 
-- Bulleted
-- List
+<p>拉不住素手拥怀抱！</p>
 
-1. Numbered
-2. List
+<p>风雷巧，火莲小，生死一瞬几分侥！</p>
 
-**Bold** and _Italic_ and `Code` text
+<p>师失父丧痛谁知晓！</p>
 
-[Link](url) and ![Image](src)
-```
+<p>执黑袍，弄火苗，畅游天地任逍遥！</p>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<p>成熟中已不再年少！</p>
 
-### Jekyll Themes
+<p>执着信念几番岁月前尘飘！</p>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/doushihaoshisunyifeng/xinde/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<p>苍穹顶峰凄寒催人老！</p>
 
-### Support or Contact
+<p>煮酒对饮红颜娇，何妨醉倒！</p>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p>把酒异界天涯海角！</p>
+
+<p>厄难苦毒绯红脸颊浅浅笑！</p>
+
+<p>通天彩磷蛇媚孕灵妖！</p>
+
+<p>过往前时分离处，力量尚小！</p>
+
+<p>牵素手拥怀抱！</p>
+
+<p>执着信念几番岁月前尘飘！</p>
+
+<p>苍穹顶峰凄寒催人老！</p>
+
+<p>煮酒对饮红颜娇，何妨醉倒！</p>
+
+<p>把酒异界天涯海角！</p>
+</body>
+</html>
