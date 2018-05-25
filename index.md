@@ -5,6 +5,7 @@
     
 </head>
 <body>
+<img src="timg.jpg"/>
 <h1>斗破苍穹</h1>
 <p>天才骄，废物恼，休书一纸少年傲！</p>
 
