@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>苍穹寄语</title>
+    <title>寄语</title>
 </head>
 <body>
 <h1>斗破苍穹</h1>
