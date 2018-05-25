@@ -1,8 +1,8 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>wocao</title>
+
 </head>
 <body>
 <img src="timg.jpg"/>
